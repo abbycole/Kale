@@ -1,1 +1,1 @@
-# KALE:  Mining HMP for plant DNA
+# Kale: Mining HMP for plant DNA
